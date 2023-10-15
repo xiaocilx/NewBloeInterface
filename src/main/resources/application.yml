@@ -1,0 +1,18 @@
+server:
+  port: 8080
+
+
+
+spring:
+  # 文件上传设置
+  servlet:
+    multipart:
+      max-file-size: 50MB  # 设置最大上传文件大小
+      max-request-size: 1000MB  # 设置最大请求大小
+  # MYSQL数据库设置
+  datasource:
+    username: user
+    password: 123456
+    url: jdbc:mysql://localhost:3306/blog?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource   # 连接池
