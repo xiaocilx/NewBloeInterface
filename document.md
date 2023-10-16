@@ -35,10 +35,17 @@ Accept 头部和确保请求的 Content-Type 是支持的类型来解决这个�
 # 数据库表
 
 1、用户 User
+
 2、文章 Article
+
 3、平均 Discuss
+
 4、标签 Label
+
 5、链接 Link
+
 6、文件 File
+
 7、分类 Sort
+
 8、设置 Option
