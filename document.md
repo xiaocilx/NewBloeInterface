@@ -30,3 +30,15 @@ Accept 头部和确保请求的 Content-Type 是支持的类型来解决这个�
 504 - Gateway Timeout： 表示在服务器作为网关或代理时，未及时从上游服务器或其他辅助服务器收到请求。
 
 502 - Bad Gateway： 表示服务器作为网关或代理，从上游服务器接收到无效的响应。
+
+
+# 数据库表
+
+1、用户 User
+2、文章 Article
+3、平均 Discuss
+4、标签 Label
+5、链接 Link
+6、文件 File
+7、分类 Sort
+8、设置 Option
