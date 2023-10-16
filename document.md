@@ -49,3 +49,9 @@ Accept 头部和确保请求的 Content-Type 是支持的类型来解决这个�
 7、分类 Sort
 
 8、设置 Option
+
+# 配置变量
+1、email 邮箱
+
+2、appPassword 邮箱授权码
+
